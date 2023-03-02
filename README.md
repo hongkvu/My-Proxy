@@ -5,7 +5,7 @@ Proxy server acts as a third layer between user and internet to help improve the
 <br/>My Proxy is a web application simulating a single feature of Proxy Server which is proxy filtering. The application will act as a network portal in an enterprise environment to allow the IT Administrator manually managing access to the user group, configuring the network to place certain sites under restriction to improve productivity in corporate. In My Roxy, the database includes several tables to store user information, list of keywords, domains and internet protocol blocked by the policy. 
 
 ## 2. System Environment
-<img src="Project-Images\System_Structure.png">
+<img src="Images\System_Structure.png">
 
 ### Hardware of Software
 Apache Tomcat
@@ -48,4 +48,4 @@ Java, SQL, HTML, CSS, JavaScript
     The system will check for the credential to allow the log-in.
 
 ## 4. ERD Diagram
-<img src="Project-Images\Entity_relationship.png">
+<img src="Images\Entity_relationship.png">
